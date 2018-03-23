@@ -3,6 +3,7 @@
 This is my temporary homepage or, 'site directory'. I store some little web projects (and, I rarely work with web development) in here.
 
 [Keybase](https://keybase.io/techtide)
+* I love Keybase. :D
 
 [Twitter](https://twitter.com/computer_time)
 
