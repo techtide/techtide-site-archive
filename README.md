@@ -31,3 +31,5 @@ This is my temporary homepage or, 'site directory'. I store some little web proj
         methods to classify good and credible educational material on the
         internet. Helping you learn faster and better, by allowing you to
         choose from the increasing amount of educational content on the web.
+
+[Bloom Privacy Policy](https://techtide.github.io/privacy.html)
