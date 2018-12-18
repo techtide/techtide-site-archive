@@ -32,4 +32,8 @@ This is my temporary homepage or, 'site directory'. I store some little web proj
         internet. Helping you learn faster and better, by allowing you to
         choose from the increasing amount of educational content on the web.
 
+### App Support Center
+* Bloom
 [Bloom Privacy Policy](https://techtide.github.io/privacy.html)
+[Other Support](https://twitter.com/computer_time)
+[Email](mailto:ab6.host@gmail.com)
